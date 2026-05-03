@@ -36,7 +36,7 @@ Config    →  python-dotenv
 ## 📁 Project Structure
 
 ```
-youtube-summarizer/
+yt-to-article-pdf/
 │
 ├── app.py                    # Main Streamlit app entry point
 ├── config.py                 # API key + model config via .env
