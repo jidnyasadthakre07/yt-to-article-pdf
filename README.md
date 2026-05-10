@@ -192,6 +192,7 @@ The Gemini model is prompted to produce a **4-section structured article**:
 **Jidnyasa Thakre**
 
 GitHub: https://github.com/jidnyasadthakre07 
+
 LinkedIn: https://www.linkedin.com/in/jidnyasathakre/
 
 ---
