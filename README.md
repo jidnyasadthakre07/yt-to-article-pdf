@@ -1,6 +1,6 @@
 # 📺 YouTube Video Summarizer
 
-> **Transform any YouTube video into a structured, professional article — instantly.**  
+> **> Convert YouTube videos into polished AI-generated articles and downloadable PDFs in seconds.**  
 > Powered by Google Gemini 2.5 Flash · Built with Streamlit · Export to PDF & TXT
 
 Paste a YouTube URL → Get a polished article with **Title, Introduction, Key Points & Conclusion** — ready to download in seconds.
@@ -137,16 +137,41 @@ The Gemini model is prompted to produce a **4-section structured article**:
 
 ---
 
-## ⚠️ Known Limitations
+## 🎯 Use Cases
 
-- Only works with YouTube videos that have **captions/transcripts enabled**
-- Very long videos may produce large transcripts; Gemini handles chunking automatically
-- Gemini API may occasionally return `503` errors — the app retries up to **3 times**
+- Educational content summarization
+- Research note generation
+- Blog/article drafting
+- Podcast/video documentation
+- AI-assisted learning workflows
 
 ---
+
+## ⚠️ Limitations
+
+- Requires captions/transcripts to be available on YouTube
+- Extremely long videos may increase processing time
+- API rate limits depend on Gemini usage tier
+
+---
+
+## 🔮 Future Enhancements
+
+- Multi-language article generation
+- Video chapter summarization
+- Custom summary styles
+- Markdown export
+- AI-generated visual notes
+- User authentication
+- Cloud storage integration
+
+---
+
 👨‍💻 Author
 
 **Jidnyasa Thakre**
+
 GitHub: https://github.com/jidnyasadthakre07 
+LinkedIn: https://www.linkedin.com/in/jidnyasathakre/
 
 ---
