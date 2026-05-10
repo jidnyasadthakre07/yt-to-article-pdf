@@ -21,6 +21,26 @@ Paste a YouTube URL → Get a polished article with **Title, Introduction, Key P
 
 ---
 
+## 🖼️ Demo Preview
+
+### 🔹 Main Interface
+
+![Main UI](assets/app-ui.png)
+
+---
+
+### 🔹 AI Generated Article
+
+![Article Preview](assets/article-preview.png)
+
+---
+
+### 🔹 Export Options
+
+![Download Options](assets/download-buttons.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 ```
