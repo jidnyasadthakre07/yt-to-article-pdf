@@ -157,6 +157,16 @@ The Gemini model is prompted to produce a **4-section structured article**:
 
 ---
 
+## 🚀 Live Demo
+
+Experience the live deployment of the YouTube Video Summarizer & PDF Generator:
+
+🔗 https://huggingface.co/spaces/Jidnyasa11/youtube-article-pdf
+
+This AI-powered application converts YouTube videos into structured articles and downloadable PDF summaries using Generative AI and Streamlit.
+
+---
+
 ## 🎯 Use Cases
 
 - Educational content summarization
